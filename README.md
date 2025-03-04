@@ -2,4 +2,4 @@ Remnants is a small sniffer expansion fixing some problems with the sniffer and 
 
 the torch flower now lights hostile mobs on fire
 
-the pitcher plant can be fed rotten flesh and bone and if fed enough will spit out an item
+the pitcher plant can be fed rotten flesh and bones and if fed enough will spit out an item
