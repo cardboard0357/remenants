@@ -1,4 +1,4 @@
-Remnants is a small archaeology expansion
+Remnants is a small wip archaeology expansion
 
 the torch flower now lights hostile mobs on fire
 
